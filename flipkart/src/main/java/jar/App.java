@@ -1,7 +1,7 @@
 package jar;
 
 /**
- * Hello world!
+ * Hello world! How are you!
  *
  */
 public class App 
